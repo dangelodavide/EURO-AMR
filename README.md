@@ -3,8 +3,7 @@
 EDA Euro - Amr | Boolean Reverse Classroom
 </h1>
 
-Questa repository contiene il progetto proposto per la Reverse Classroom di "Boolean" del gruppo 1, composto da: <br>
-Arianna Fronzoni, Caterina Gion, Antonio Ascione, Davide D'Angelo e Vito Attolico
+Questa repository contiene il progetto proposto per la Reverse Classroom di "Boolean" del gruppo 1.
 
 ## Installazione
 
@@ -29,4 +28,9 @@ git clone [REPOSITORY URL]
 cd [FOLDER NAME]
 ```
 
-## Fonti
+## Fonte dati
+Kaggle: https://www.kaggle.com/datasets/samfenske/euro-resistance
+
+---
+
+Questa repository è a cura di Arianna Fronzoni, Caterina Gion, Antonio Ascione, Davide D'Angelo e Vito Attolico
