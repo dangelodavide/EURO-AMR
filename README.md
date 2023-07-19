@@ -1,5 +1,5 @@
 <h1>
-<img src="https://cdn-icons-png.flaticon.com/512/3408/3408751.png" style="width: 50px; height: 50px; vertical-align: middle;"> 
+<img src="https://cdn.freebiesupply.com/logos/large/2x/eu-logo-png-transparent.png" style="width: 50px; height: 50px; vertical-align: middle;"> 
 EDA Euro - Amr | Boolean Reverse Classroom
 </h1>
 
